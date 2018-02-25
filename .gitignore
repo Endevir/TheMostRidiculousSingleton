@@ -1,0 +1,7 @@
+*.txt
+*cmake*
+*ide*
+*bin*
+*build*
+*debug*
+*release*
