@@ -1,4 +1,5 @@
 *.txt
+!defines.txt
 *cmake*
 *ide*
 *bin*
