@@ -14,6 +14,7 @@ Hello everybody! This is my special MEGA-SINGLETON macros realisation, which per
 * There should be no function getInstance() declared
 
 # May the force be with you!
+```
                    ____                  
                 _.' :  `._               
             .-.'`.  ;   .'`.-.           
@@ -49,3 +50,4 @@ Hello everybody! This is my special MEGA-SINGLETON macros realisation, which per
          :-""-.`./-.'     /    `.___.'   
                \ `t  ._  /           
                 "-.t-._:'                
+```
