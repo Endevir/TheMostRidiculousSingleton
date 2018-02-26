@@ -5,97 +5,207 @@
 #ifndef THEMOSTRIDICULOUSSINGLETON_REFS_H
 #define THEMOSTRIDICULOUSSINGLETON_REFS_H
 
-#define IIxxxxxxII
-#define ExxxxxxxxxxxxxxxE
-#define IaxxxI
-#define NxxxxxxN
-#define ExxxxxE
-#define NxxxxN
-#define IIIIIIIIII
+#define IIxxxxxxII void Correct_I_Letter_cbfa5c0c2dee39cb26f510c414c159b3() {}
+#define ExxxxxxxxxxxxxxxE void Correct_E_Letter_a0878003c30ad119bb09384bfff1ac02() {}
+#define IaxxxI void Correct_I_Letter_2bf291d3604d9ff58ff20ec1e02fcabd() {}
+#define NxxxxxxN void Correct_N_Letter_ec63c120243cb54ae3d0d84dd99a117d() {}
+#define NxxxxN void Correct_N_Letter_b4d53d920459e0e9b6ca793e2c628713() {}
+#define IIIIIIIIII void Correct_I_Letter_0f0636add9c39409d7b769025d055086() {}
+#define SSSPSSS void Correct_S_Letter_feb2431c8e7a911365bc7638606e152f() {}
+#define OOxxxxxxxxxOO void Correct_O_Letter_70cf85000c9f6f1869d910faa13a80f7() {}
+#define NxxxxxxxxxxxN void Correct_N_Letter_45eb1f4e62ac31b66363f101a51972e1() {}
+#define NxxxxNxxxxxxxN void Correct_N_Letter_e34e4875631f19f919fd3acbf7ee3eed() {}
+#define GGGGGGGGGGGGG void Correct_G_Letter_9165835d3622779d8f383f1b96f0068f() {}
+#define NxxxxxxxxxN void Correct_N_Letter_71d4fd304a9923040a546679ec1aed33() {}
+#define IxxxxxaxxI void Correct_I_Letter_9a6e6f8b5fb73a65be0c636707c4eacd() {}
+#define SxaxxxS void Correct_S_Letter_e35c73a549940d6a4db5cd0f29f204e0() {}
+#define SxxaxxS void Correct_S_Letter_ad9e346d51582abfa39d9853dd99f83d() {}
+#define SxxxaxS void Correct_S_Letter_51c342113fc20526b067127221fbce49() {}
+#define SxxxxaS void Correct_S_Letter_1d6c7a5e8e3e485d43895716d75502fa() {}
+#define SSSSSSSSSPSSSSS void Correct_S_Letter_76133af9f84f0ad6004bd7b4416e0f06() {}
+#define IsxxxI void Correct_I_Letter_ccb793be84c0a4e0abda478f91e70c9e() {}
+#define IIIILIIIII void Correct_I_Letter_3b63cfee2c6d5d169782bb7ce03063bf() {}
+#define NNMNNNNN void Correct_N_Letter_1876c384a701436c826b87f1ece3d93f() {}
+#define NNNNNNMN void Correct_N_Letter_a9355ce6477ae3141912d083dddf06d7() {}
+#define NaxxxxxN void Correct_N_Letter_e0dd00570c1a3d7515dc5b9c14dba2d0() {}
+#define NxaxxxxN void Correct_N_Letter_c31ede0b79e42d9647f767d935d3152a() {}
+#define NxxaxxxN void Correct_N_Letter_2c03395dafef2e4f01e8f5d52bacaaa9() {}
+#define NxxxaxxN void Correct_N_Letter_8cde8beceb26899402a7cfd7e01f4c99() {}
+#define NxxxxaxN void Correct_N_Letter_918264014a85ba1eac4df230bda3f3b2() {}
+#define NxxxxxaN void Correct_N_Letter_d0b641f19a958d4c6eb1e38799d47b31() {}
+#define NxxxxaaN void Correct_N_Letter_8535993d268ccfe96a37b2912aac9516() {}
+#define NxxxaxaN void Correct_N_Letter_d5ecf687a11cce2e7f80e84c6a6affa6() {}
+#define NxxaxxaN void Correct_N_Letter_a7b96e1e11390ee6074b1c81e7815346() {}
+#define NxxxxxxexxxxN void Correct_N_Letter_11a9efe18f07ea4b42202b6f5d5b70a2() {}
+#define NxaxxxaN void Correct_N_Letter_01c9bd9c41ddf207349bc7c48cabc54b() {}
+#define NxxxxxexxxxN void Correct_N_Letter_4f85b1469a7aa2a080c84c8f70d9ca77() {}
+#define NaxxxxaN void Correct_N_Letter_d39f748cb84b62344d891903d9dfa4ea() {}
+#define NxxxaaaN void Correct_N_Letter_766abbf40b8317e68f43068e6c5b9f3c() {}
+#define NxxxxexxxxN void Correct_N_Letter_c403806116c1edb51006429397455e8b() {}
+#define NxxaxaaN void Correct_N_Letter_4ecfb5180c06a33cc1217ae3bc06de86() {}
+#define NxxxexxxxN void Correct_N_Letter_82c2976cdb8dbccb0d32fed14b2139d8() {}
+#define NaxxxaaN void Correct_N_Letter_42f9c90b246caf688014a12f00b0ae73() {}
+#define NxxexxxxN void Correct_N_Letter_827183f4ac64db427363e645958c67b2() {}
+#define NexxxxxN void Correct_N_Letter_42864f393b12fa544603b2456468a8b2() {}
+#define GGxxxxxxxxxaxxxxxG void Correct_G_Letter_1d1995c15119759a1e08e7eaef3b3b28() {}
+#define GxxxxxGGGGGGGGaxxxG void Correct_G_Letter_15d202d94f863ea1fdcba1e2822cfc1a() {}
+#define GaxxxxG void Correct_G_Letter_140a1dc68397e87f100d81605e62a2d4() {}
+#define GxaxxxG void Correct_G_Letter_b3e5de829f4a352a90c08cd55a50b69b() {}
+#define GxxaxxG void Correct_G_Letter_c8b803e1e24462d80b0195bda36468f5() {}
+#define GxxxaxG void Correct_G_Letter_f220e6b5c24eb89965359dd2fdd55f97() {}
+#define GxxxxaG void Correct_G_Letter_c018731b55d78bee3483b8f2d8d87651() {}
+#define GxxxxxaxxG void Correct_G_Letter_3c787a512b38d87454db5b790e1e0a13() {}
+#define GxxaxaG void Correct_G_Letter_bf590f331ecb08e6f5e48a690ea2c07d() {}
+#define GGGGGxxaxG void Correct_G_Letter_2f6b867959034bba67c3f3887aebfadb() {}
+#define GxxxaaG void Correct_G_Letter_7c975ad195c04eae9b85eee271cf8e8c() {}
+#define GxaxxG void Correct_G_Letter_6401f35a3052dfaad7182a1c16a6e7fc() {}
+#define GaxxxG void Correct_G_Letter_d1629339beb767408f7a06f37e131eb2() {}
+#define GGGGGGGOGGGGG void Correct_G_Letter_534a1ddb55131c314de86c151414f127() {}
+#define LxxxaxxxxxL void Correct_L_Letter_16547ebf4bfaab3611912adc5e7fc3bb() {}
+#define LLxaxxxxxLL void Correct_L_Letter_de71e405bc239b7d816129425f2be626() {}
+#define LaxxxxL void Correct_L_Letter_46036383b165b09536f4c02569c86215() {}
+#define LxaxxxL void Correct_L_Letter_04d660b96b40f6a31200335e450ee7ce() {}
+#define LxxaxxL void Correct_L_Letter_d46933b8e63403088d95d23419227871() {}
+#define LxxxaxL void Correct_L_Letter_8e745336325a1fad3fd03ff2f2b66a85() {}
+#define LxxxxaL void Correct_L_Letter_81afca2b8936c9bd4a7b7122bdb5195d() {}
+#define LxxxaaL void Correct_L_Letter_6d92ec3d5b6ec30b2d07d4b868e8ea3e() {}
+#define LxxaxaL void Correct_L_Letter_dda811e69d66a37709346b6fb62e8790() {}
+#define LxaxxaL void Correct_L_Letter_35049e901304c8978c2895f274c2d315() {}
+#define LxxxaxxxxxxxxxxxxxxxxxxL void Correct_L_Letter_4437161fc23553607948cead0562a3d7() {}
+#define ExxxxxxxaxxxxxxxxxxxxE void Correct_E_Letter_f6bc90a21159c3f1eaa9eb4533000b97() {}
+#define ExxxxxxxxxxxxxaxxxxxxE void Correct_E_Letter_c7e7314e24f0f063c14ccad94879f4cb() {}
+#define ExxaxxE void Correct_E_Letter_3cae23495066eccaf36bb0d3ac93db1c() {}
+#define ExaxxxE void Correct_E_Letter_1aa38dc3a91bc5faf0b24b1baf14417b() {}
+#define ExxxxxxEFEEEEEEEE void Correct_E_Letter_7f565ab574fbe65766b8fcba64b70084() {}
+#define ExxxxxxxaxxxxxxxE void Correct_E_Letter_a05c3351f7016d4f999c5b0a15149afe() {}
+#define ExxxaxE void Correct_E_Letter_b999930060ea157556b196b6f5444b61() {}
+#define EaxxxaE void Correct_E_Letter_fdfea2e1aba420fbc85394917a13fc43() {}
+#define EEFEEE void Correct_E_Letter_b7c149bd9503ba9a3cd0c6529ade5441() {}
+#define ExxxxxxxxxxxxxxxxxaxxE void Correct_E_Letter_11bce904bda06cfdaec1d3523da24575() {}
+#define EEEEEEEEEEEEEEEEEFEEEE void Correct_E_Letter_daaa55e629f90cfee4affeab1ed1f12d() {}
+#define TxxxxxxxaxxxxxxxxxxxxxT void Correct_T_Letter_2e5e8a7f7dea42e5c53244b930148c03() {}
+#define TTTPTT void Correct_T_Letter_eff361b56b174de54eda5940b7f816a8() {}
+#define TaxxxxT void Correct_T_Letter_dd92167c50463cebf444006d30d85c00() {}
+#define TxaxxxT void Correct_T_Letter_f07027863f47ea6fc7cf7c9e9ac8da97() {}
+#define TxxaxxT void Correct_T_Letter_5324bb0af53684b6e279e73a925e07b4() {}
+#define TxxxaxT void Correct_T_Letter_487565fcfba505cb1c4b4591418fdc23() {}
+#define TxxxxaT void Correct_T_Letter_220561333df16a168b580869af557600() {}
+#define TxxxaaT void Correct_T_Letter_82e1daae4d519fe232b1c9754dc1ac5e() {}
+#define TxxaxaT void Correct_T_Letter_11a99521a5ebe5eaa5557033129a2cbb() {}
+#define TxaxxaT void Correct_T_Letter_19450f7a408c945db863a4dda67eada5() {}
+#define TxxaxxxxxxT void Correct_T_Letter_20901e20a160b99ab870e7b401916b37() {}
+#define OOxxaxxxxxxOO void Correct_O_Letter_eba3c802f756e9fb5973003477ac377f() {}
+#define OOxxxxxaxxxxxxxOO void Correct_O_Letter_a2a3dd2f45fcc5ba77d68f146842cbc7() {}
+#define OxxxxxaxOOOxxxxxxxO void Correct_O_Letter_d024d07fcfef7bc465d2f9f788cc45d0() {}
+#define OaxxxxxO void Correct_O_Letter_6d156380ccfee9b81146be5e1766c3f5() {}
+#define OxaxxxxO void Correct_O_Letter_11c79fac0da5733160b593e8f79e4218() {}
+#define OxxoxxO void Correct_O_Letter_cdc49c2a35a7738ea6496e589a378968() {}
+#define OaxxxxO void Correct_O_Letter_56428b47f5eb4e060faaa0ffb976db11() {}
+#define OxoxxxO void Correct_O_Letter_acb0c1d6b0841993036613d82e510391() {}
+#define OoxxxxO void Correct_O_Letter_a8a20499aba15a41baa957efcd9a21a5() {}
+#define OxaxxxO void Correct_O_Letter_f83682c1739b8c3eeb89e545c0e1def9() {}
+#define OxxaxxO void Correct_O_Letter_2607c5110cfed9b144f5b9a1194d4855() {}
+#define OaxxaxO void Correct_O_Letter_0560078995b7dae4ae3934872e07a75f() {}
+#define OxxxaxO void Correct_O_Letter_c6d2d800059050bc0f10919b00e6257a() {}
+#define OaxaxxO void Correct_O_Letter_564d4161b0f40332ee7b61df24d2dd20() {}
+#define OxxxxaO void Correct_O_Letter_16277938b67ac2e9238209c20981986e() {}
+#define OaaxxxO void Correct_O_Letter_9309dc21e3c8a445d85df7637a2a6c22() {}
+#define OxxaxaO void Correct_O_Letter_07418ea36a2cb00ca956441071c5b24b() {}
+#define OxxcxxxO void Correct_O_Letter_94beccdf1575131b9a8f1a0082c0d2dd() {}
+#define NxxxxxxxxxxN void Correct_N_Letter_1d3b60477961d1b7ee33801504113a21() {}
+#define OOOOGOOOO void Correct_O_Letter_19be0ae81a8047835168084510bc0d1f() {}
+#define NNNNHNNN void Correct_N_Letter_9862c4099a00a27a3fb68598c10692e7() {}
+#define NHNNNNNN void Correct_N_Letter_4977a7e0acc49b1b36f0add919fc5fc1() {}
+#define NxxwxxxN void Correct_N_Letter_71c98c47efdebc1c712e9e73c69e411b() {}
+#define NxxxwxxN void Correct_N_Letter_b406777b06e3eb1097a3a3127117d79f() {}
+#define NxxxxwxN void Correct_N_Letter_627007b595fec31a141a939734c41d7b() {}
+#define NxxxxxwN void Correct_N_Letter_8d085e78d622bc3a96581f2f4d0c6201() {}
+#define NxwxxxxN void Correct_N_Letter_0cd33a1e8acee470195219f26a3f74ec() {}
+#define NwxxxxxN void Correct_N_Letter_c0a893cde624f0f24434f123828dd5dc() {}
+#define NwxwxxxN void Correct_N_Letter_09c257ae3951d93f6be7a7ef5d7a47cb() {}
+#define NxxwxwxN void Correct_N_Letter_32dc6c19c435cb106a23871311169c34() {}
+#define EEEEEEEEEEEEEEEEEEEEEE void Correct_E_Letter_5b2c0a591bc67409baaa53628e7b63f5() {}
+#define OxxxxxxxOOOxxxxxxxO void Correct_O_Letter_9b52c777273861d7d9831ab9ea9cbed7() {}
+#define GxxxxxG void Correct_G_Letter_7a3e12ac25ed4b84d1868600a11bb57b() {}
+#define NxxxxxxxN void Correct_N_Letter_85df9503f67aecd3a6deb9f22fde1a53() {}
+#define TxxxxxxxxxT void Correct_T_Letter_ce52efede81a36a427335f758202a6e4() {}
+#define IIxxII void Correct_I_Letter_0c3a6bf0c3bfd50a65b1213c1adcb8b7() {}
+#define TxxxxxTTxxxxxxxTTxxxxxT void Correct_T_Letter_b614df1e6bf315c6d2aef3f924adecf6() {}
+#define SSxxxxxxxxxxxxxxxS void Correct_S_Letter_2d1f83c8c5f101341b8157d9cf2dd98d() {}
+#define LLxxxxxxxLLLLLLLLLxxxxxL void Correct_L_Letter_059b131e1eacccd262194dd9e10169f7() {}
+#define IxxxxxxxxI void Correct_I_Letter_08be0359f1607f0b575f3ff2e51ec449() {}
+#define SxxxxxxxxxxxxxxxSS void Correct_S_Letter_7104314667594ca409051a6ffdddff04() {}
+#define LLLLLL void Correct_L_Letter_dfc5df0683e9ce48fcad4b25716c04a1() {}
+#define NNNNNNNN void Correct_N_Letter_9f49cab012dfefdb0e761b949a405703() {}
+#define IIxxxaxxII void Correct_I_Letter_bac31b3445448283289e5b0013a4f5ef() {}
+#define GGxxxxxxxxxxxxxxxG void Correct_G_Letter_3f3474acf56a670897f47fdf6a4a9319() {}
+#define IxxxxI void Correct_I_Letter_9eea14563b6c685da8b10e50a83d89ac() {}
+#define TTTTTT void Correct_T_Letter_13958efd16c5af3f8be4d5042b35dfa4() {}
+#define NNNNNNN void Correct_N_Letter_2709e65b483e4dadca61f4394fc6b9ef() {}
+#define GGGxxxxxxxxxxxxG void Correct_G_Letter_e9b58df4cc4d8a3ad8cd359e5bbd9277() {}
+#define IxIxII void Correct_I_Letter_7c45c5531d9474fe84319e4a6480cd02() {}
+#define LLLLLLLLLLLLLLLLLLLLLLLL void Correct_L_Letter_b81f59d722d0f0594d31fdf9f295ece1() {}
+#define GxxxxxGGGGGGGGxxxxG void Correct_G_Letter_06cff09573ee6397228f8b811ca5433a() {}
+#define EExxxxxxEEEEEEEEExxxxE void Correct_E_Letter_f6ac15905c9ef2246f40e5d443618368() {}
+#define SxxxxxxSSSSSSxxxxxS void Correct_S_Letter_7b47a99c356d7dbad3aab05b38e1ae3a() {}
+#define GGGGGG void Correct_G_Letter_049221e734c0a7657cf80d87455f8056() {}
+#define IxxaxI void Correct_I_Letter_b8b0ea8cefcf6d33d8b1fbc3cb6ad104() {}
+#define OOxxxxxxxxxxxxxOO void Correct_O_Letter_f9b18c0e0a752d99cd71efe5a73a7fac() {}
+#define IxaxxI void Correct_I_Letter_8ab440831cc883d6dc066c695dc3e254() {}
+#define LxxxxxxxxxxxxxxxxxxxxxxL void Correct_L_Letter_5f804e0dc96497ca0816370b44e426c4() {}
+#define SSSSSSxxxxS void Correct_S_Letter_4f1e7a99f4d46aa7cbfabe6b183312ad() {}
+#define SxxxxxS void Correct_S_Letter_913b9c5a527d1c688122adb7ebe62773() {}
+#define ExxxxxxxxxxxxxxxxxxxxE void Correct_E_Letter_5fc3abf0f3be912405f599d3280c1423() {}
+#define IxIxxxxIxI void Correct_I_Letter_1c34562e7326da22f9d11deea8e70517() {}
+#define NxxxxxxxxN void Correct_N_Letter_9b4fb0dd761ae2039e432a933bc1759a() {}
+#define IxxxxxxaxI void Correct_I_Letter_3ef7f86405894656cf7fad8ad37acc9a() {}
+#define NxxxxxxxNxxxxN void Correct_N_Letter_f5b86f5d0852d53e339108cebf7d7a20() {}
+#define SSSxxxxxxxxSS void Correct_S_Letter_f593535bb144be004d4befeb5c34bda4() {}
+#define EExxxxxxEEEEEEEExxxxxE void Correct_E_Letter_c9e9d7cafbdf5d544b03d837b83dbb0b() {}
+#define OxxxxxxO void Correct_O_Letter_cf68b43946056a38bea806157569545f() {}
+#define SxxxxxSSSSSSxxxxxxS void Correct_S_Letter_1f3430753707250f30855adaf1796208() {}
+#define SSSSSSSSSSSSSSS void Correct_S_Letter_26601586cab0a6ab61a916ea83d9d156() {}
+#define SxxxxSSSS void Correct_S_Letter_c9eb907848f6747353618b5ce9d5eed3() {}
+#define TTxxxxxxxTT void Correct_T_Letter_570e11c47bb10fc996a72a3c0fe467b2() {}
+#define EEEEEE void Correct_E_Letter_3e0049bbc9c3618ecbf28988c9733c26() {}
+#define TxxxxxxxxxxxxxxxxxxxxxT void Correct_T_Letter_48a736270b91d8cd9de22feba833a02a() {}
+#define GGGGGGGGGG void Correct_G_Letter_224785741e5fae1eba680b5adfa13dbe() {}
+#define LLLLLLLLLLL void Correct_L_Letter_c4386e60cbabc41415b77d6529323a1d() {}
+#define SSxxxxxxSSSSS void Correct_S_Letter_5571ba0159ef45f5b86a5eb24539913c() {}
+#define SaxxxxS void Correct_S_Letter_45e76f775e356a8af5e26fbfa3f13f9f() {}
+#define SSSSSSS void Correct_S_Letter_b482eabb59bd0902e12c2c94ea95866a() {}
+#define IxxxaI void Correct_I_Letter_116270da49fa093db569e2ebeb41c43c() {}
+#define ExxxxxxEEEEEEEEEE void Correct_E_Letter_fe8452e8f85c10a9c4a41d657edb18d8() {}
+#define OOOOOOOOO void Correct_O_Letter_6a8ce4e313870561d6680551659e9961() {}
+#define TTTTTTTTTTT void Correct_T_Letter_42685a49cc76b67e3d1d273ff866c50e() {}
+#define GGGxxxxxxGGGxxxG void Correct_G_Letter_c320327a80ba1868130c1d8af7ecf7a1() {}
+#define LxxxxxxxxxL void Correct_L_Letter_f54b7cf56e6dbe9e2164f0e86e157c9a() {}
+#define TTTTTTTTTTTTTTTTTTTTTTT void Correct_T_Letter_0d76bcdb1b2b5a6d7a8e38114d63dbd4() {}
+#define NbxxxxxxN void Correct_N_Letter_f72b4c48f1253066b35c207106d47044() {}
+#define NxbxxxxxxN void Correct_N_Letter_5138743e336dc2f4523c03258937fedd() {}
+#define NxxbxxxxxxN void Correct_N_Letter_28273f4cffda9400ceae3091af2d63a3() {}
+#define NxxxbxxxxxxN void Correct_N_Letter_f90dab0f3f3981883c82e62b80f77889() {}
+#define NxxxxbxxxxxxN void Correct_N_Letter_45487b441bae5e83a31fb2cd670982b8() {}
+#define NxxxbxxxNxxxxN void Correct_N_Letter_eec1c3462fa5d2c572a5e8e7aa460e8f() {}
+#define NxaaxN void Correct_N_Letter_8589cf46f399fd6af4e61650bbaa32fc() {}
+#define NbxxxxxN void Correct_N_Letter_f054c38b26d3a50060641abc668effba() {}
+#define NxbxxxxN void Correct_N_Letter_b2575d9f48d5d10c7a70cb419ca4321f() {}
+#define NxxbxxxN void Correct_N_Letter_55572a5784319a657f920a141086705b() {}
+#define NxxxbxxN void Correct_N_Letter_deeb880f76bbe40c9832d8229a8ee183() {}
+#define NxxxxbxN void Correct_N_Letter_19a91a527aad1266e4ab9957d0e3bd84() {}
+#define NxxxxxbN void Correct_N_Letter_fc8075562aa0aa37c7bc351c69c08fa7() {}
+#define NxxxxbbN void Correct_N_Letter_af87affa58071519e8dd3cac40909e4b() {}
+#define NxxxxNxxxwxxxN void Correct_N_Letter_40fb48e2029fcb58d54951951ae6e5f0() {}
+#define NxxxxxwxxxxxN void Correct_N_Letter_585ac3cd8b18da6ac781dfc9d4def784() {}
+#define NxxxxwxxxxxN void Correct_N_Letter_00ccacb4d540a0a6619a5d8ffbdb7e33() {}
+#define NxxxwxxxxxN void Correct_N_Letter_58ad71e8bbf34726b0fecb8df2636741() {}
+#define NxxwxxxxxN void Correct_N_Letter_12747a193340d7a3bc0ee76b1223e1b6() {}
+#define NxwxxxxxN void Correct_N_Letter_5b1ce6eb2af51bc03b5807f458175a63() {}
+#define NNNFFNNN void Correct_N_Letter_7c524347ad612e63b58648aac20f70fd() {}
+#define NwxxxxwN void Correct_N_Letter_cf0cab8599ae348bbc8350098fa326d2() {}
+#define THIS void Correct_THIS_Word_077e476b586729db2f5b73f70614e321() {}
+#define IS void Correct_IS_Word_64893cb64fdeb39987463825890d26cb() {}
 
-#define OOxxxxxxxxxOO
-#define NxxxxxxxxxxxN
-#define NxxxxNxxxxxxxN
-#define GGGGGGGGGGGGG
-#define NxxxxxxxxxN
-#define GxxxxxxxxG
-#define IxxxxxaxxI
-
-#define NxxxxxxxxxxN
-
-#define EEEEEEEEEEEEEEEEEEEEEE
-#define OxxxxxxxOOOxxxxxxxO
-
-#define GxxxxxG
-#define NxxxxxxxN
-#define TxxxxxxxxxT
-#define IIxxII
-#define TxxxxxTTxxxxxxxTTxxxxxT
-
-#define SSxxxxxxxxxxxxxxxS
-#define LLxxxxxxxLLLLLLLLLxxxxxL
-#define LLxxxxxxxLL
-#define IxxxxxxxxI
-
-#define SxxxxxxxxxxxxxxxSS
-#define LLLLLL
-#define NNNNNNNN
-#define IIxxxaxxII
-#define GGxxxxxxxxxxxxxxxG
-#define IxxxxI
-#define TTTTTT
-#define NNNNNNN
-#define GGGxxxxxxxxxxxxG
-#define IxIxII
-#define LLLLLLLLLLLLLLLLLLLLLLLL
-#define GxxxxxGGGGGGGGxxxxG
-#define EExxxxxxEEEEEEEEExxxxE
-#define SxxxxxxSSSSSSxxxxxS
-#define GGGGGG
-
-#define THIS static void checkifthis() {}
-#define IS static void runifis() {}
-#define IxxaxI
-#define OOxxxxxxxxxxxxxOO
-#define IxaxxI
-#define OxxxxxO
-#define LxxxxxxxxxxxxxxxxxxxxxxL
-#define        SSSSSSxxxxS
-#define GxxxxG
-#define SxxxxxS
-#define ExxxxxxxxxxxxxxxxxxxxE
-#define IxIxxxxIxI
-#define LxxxxxL
-
-#define NxxxxxxxxN
-#define TxxxxxT
-#define IxxxxxxaxI
-#define NxxxxxxxNxxxxN
-#define     SSSxxxxxxxxSS
-#define GGGG
-
-#define EExxxxxxEEEEEEEExxxxxE
-#define OxxxxxxO
-#define SxxxxxSSSSSSxxxxxxS
-#define   SSSSSSSSSSSSSSS
-#define  SxxxxSSSS
-#define TTxxxxxxxTT
-#define EEEEEE
-#define TxxxxxxxxxxxxxxxxxxxxxT
-#define GGGGGGGGGG
-#define LLLLLLLLLLL
-#define   SSxxxxxxSSSSS
-
-#define SSSSSSS     SxxxxxS
-#define IxxxaI
-#define ExxxxxxEEEEEEEEEE
-#define OOOOOOOOO
-#define TTTTTTTTTTT
-#define GGGxxxxxxGGGxxxG
-#define GGGGGxxxxG
-#define LxxxxxxxxxL
-#define TTTTTTTTTTTTTTTTTTTTTTT
-
-#define NNNNAME(classname) EExxxxxxEEEEEEEEExxxxE TxxxxxTTxxxxxxxTTxxxxxT OOxxxxxxxxxxxxxOO NNNNNNN IxxxxxaxxI NxxxxxxxxxxxN SSSSSSSSSSSSSSS private:IaxxxI SxxxxxSSSSSSxxxxxxS IaxxxI classname SxxxxxSSSSSSxxxxxxS IIxxII() IxxxaI{ SxxxxxS } classname( const SxxxxSSSS classname& ); classname& operator=( SSSxxxxxxxxSS  classname& ); public: static IxxxxxxxxI classname& getInstance() {static classname NxxxxxxxN instance;GGGxxxxxxxxxxxxG checkifthis(); runifis(); return LLxxxxxxxLL instance;LLxxxxxxxLLLLLLLLLxxxxxL}
+#define NNNNAME(classname) private: classname() {Correct_I_Letter_cbfa5c0c2dee39cb26f510c414c159b3(); Correct_E_Letter_a0878003c30ad119bb09384bfff1ac02(); Correct_I_Letter_2bf291d3604d9ff58ff20ec1e02fcabd(); Correct_N_Letter_ec63c120243cb54ae3d0d84dd99a117d(); Correct_N_Letter_b4d53d920459e0e9b6ca793e2c628713(); Correct_I_Letter_0f0636add9c39409d7b769025d055086(); Correct_S_Letter_feb2431c8e7a911365bc7638606e152f(); Correct_O_Letter_70cf85000c9f6f1869d910faa13a80f7(); Correct_N_Letter_45eb1f4e62ac31b66363f101a51972e1(); Correct_N_Letter_e34e4875631f19f919fd3acbf7ee3eed(); Correct_G_Letter_9165835d3622779d8f383f1b96f0068f(); Correct_N_Letter_71d4fd304a9923040a546679ec1aed33(); Correct_I_Letter_9a6e6f8b5fb73a65be0c636707c4eacd(); Correct_S_Letter_e35c73a549940d6a4db5cd0f29f204e0(); Correct_S_Letter_ad9e346d51582abfa39d9853dd99f83d(); Correct_S_Letter_51c342113fc20526b067127221fbce49(); Correct_S_Letter_1d6c7a5e8e3e485d43895716d75502fa(); Correct_S_Letter_76133af9f84f0ad6004bd7b4416e0f06(); Correct_I_Letter_ccb793be84c0a4e0abda478f91e70c9e(); Correct_I_Letter_3b63cfee2c6d5d169782bb7ce03063bf(); Correct_N_Letter_1876c384a701436c826b87f1ece3d93f(); Correct_N_Letter_a9355ce6477ae3141912d083dddf06d7(); Correct_N_Letter_e0dd00570c1a3d7515dc5b9c14dba2d0(); Correct_N_Letter_c31ede0b79e42d9647f767d935d3152a(); Correct_N_Letter_2c03395dafef2e4f01e8f5d52bacaaa9(); Correct_N_Letter_8cde8beceb26899402a7cfd7e01f4c99(); Correct_N_Letter_918264014a85ba1eac4df230bda3f3b2(); Correct_N_Letter_d0b641f19a958d4c6eb1e38799d47b31(); Correct_N_Letter_8535993d268ccfe96a37b2912aac9516(); Correct_N_Letter_d5ecf687a11cce2e7f80e84c6a6affa6(); Correct_N_Letter_a7b96e1e11390ee6074b1c81e7815346(); Correct_N_Letter_11a9efe18f07ea4b42202b6f5d5b70a2(); Correct_N_Letter_01c9bd9c41ddf207349bc7c48cabc54b(); Correct_N_Letter_4f85b1469a7aa2a080c84c8f70d9ca77(); Correct_N_Letter_d39f748cb84b62344d891903d9dfa4ea(); Correct_N_Letter_766abbf40b8317e68f43068e6c5b9f3c(); Correct_N_Letter_c403806116c1edb51006429397455e8b(); Correct_N_Letter_4ecfb5180c06a33cc1217ae3bc06de86(); Correct_N_Letter_82c2976cdb8dbccb0d32fed14b2139d8(); Correct_N_Letter_42f9c90b246caf688014a12f00b0ae73(); Correct_N_Letter_827183f4ac64db427363e645958c67b2(); Correct_N_Letter_42864f393b12fa544603b2456468a8b2(); Correct_G_Letter_1d1995c15119759a1e08e7eaef3b3b28(); Correct_G_Letter_15d202d94f863ea1fdcba1e2822cfc1a(); Correct_G_Letter_140a1dc68397e87f100d81605e62a2d4(); Correct_G_Letter_b3e5de829f4a352a90c08cd55a50b69b(); Correct_G_Letter_c8b803e1e24462d80b0195bda36468f5(); Correct_G_Letter_f220e6b5c24eb89965359dd2fdd55f97(); Correct_G_Letter_c018731b55d78bee3483b8f2d8d87651(); Correct_G_Letter_3c787a512b38d87454db5b790e1e0a13(); Correct_G_Letter_bf590f331ecb08e6f5e48a690ea2c07d(); Correct_G_Letter_2f6b867959034bba67c3f3887aebfadb(); Correct_G_Letter_7c975ad195c04eae9b85eee271cf8e8c(); Correct_G_Letter_6401f35a3052dfaad7182a1c16a6e7fc(); Correct_G_Letter_d1629339beb767408f7a06f37e131eb2(); Correct_G_Letter_534a1ddb55131c314de86c151414f127(); Correct_L_Letter_16547ebf4bfaab3611912adc5e7fc3bb(); Correct_L_Letter_de71e405bc239b7d816129425f2be626(); Correct_L_Letter_46036383b165b09536f4c02569c86215(); Correct_L_Letter_04d660b96b40f6a31200335e450ee7ce(); Correct_L_Letter_d46933b8e63403088d95d23419227871(); Correct_L_Letter_8e745336325a1fad3fd03ff2f2b66a85(); Correct_L_Letter_81afca2b8936c9bd4a7b7122bdb5195d(); Correct_L_Letter_6d92ec3d5b6ec30b2d07d4b868e8ea3e(); Correct_L_Letter_dda811e69d66a37709346b6fb62e8790(); Correct_L_Letter_35049e901304c8978c2895f274c2d315(); Correct_L_Letter_4437161fc23553607948cead0562a3d7(); Correct_E_Letter_f6bc90a21159c3f1eaa9eb4533000b97(); Correct_E_Letter_c7e7314e24f0f063c14ccad94879f4cb(); Correct_E_Letter_3cae23495066eccaf36bb0d3ac93db1c(); Correct_E_Letter_1aa38dc3a91bc5faf0b24b1baf14417b(); Correct_E_Letter_7f565ab574fbe65766b8fcba64b70084(); Correct_E_Letter_a05c3351f7016d4f999c5b0a15149afe(); Correct_E_Letter_b999930060ea157556b196b6f5444b61(); Correct_E_Letter_fdfea2e1aba420fbc85394917a13fc43(); Correct_E_Letter_b7c149bd9503ba9a3cd0c6529ade5441(); Correct_E_Letter_11bce904bda06cfdaec1d3523da24575(); Correct_E_Letter_daaa55e629f90cfee4affeab1ed1f12d(); Correct_T_Letter_2e5e8a7f7dea42e5c53244b930148c03(); Correct_T_Letter_eff361b56b174de54eda5940b7f816a8(); Correct_T_Letter_dd92167c50463cebf444006d30d85c00(); Correct_T_Letter_f07027863f47ea6fc7cf7c9e9ac8da97(); Correct_T_Letter_5324bb0af53684b6e279e73a925e07b4(); Correct_T_Letter_487565fcfba505cb1c4b4591418fdc23(); Correct_T_Letter_220561333df16a168b580869af557600(); Correct_T_Letter_82e1daae4d519fe232b1c9754dc1ac5e(); Correct_T_Letter_11a99521a5ebe5eaa5557033129a2cbb(); Correct_T_Letter_19450f7a408c945db863a4dda67eada5(); Correct_T_Letter_20901e20a160b99ab870e7b401916b37(); Correct_O_Letter_eba3c802f756e9fb5973003477ac377f(); Correct_O_Letter_a2a3dd2f45fcc5ba77d68f146842cbc7(); Correct_O_Letter_d024d07fcfef7bc465d2f9f788cc45d0(); Correct_O_Letter_6d156380ccfee9b81146be5e1766c3f5(); Correct_O_Letter_11c79fac0da5733160b593e8f79e4218(); Correct_O_Letter_cdc49c2a35a7738ea6496e589a378968(); Correct_O_Letter_56428b47f5eb4e060faaa0ffb976db11(); Correct_O_Letter_acb0c1d6b0841993036613d82e510391(); Correct_O_Letter_a8a20499aba15a41baa957efcd9a21a5(); Correct_O_Letter_f83682c1739b8c3eeb89e545c0e1def9(); Correct_O_Letter_2607c5110cfed9b144f5b9a1194d4855(); Correct_O_Letter_0560078995b7dae4ae3934872e07a75f(); Correct_O_Letter_c6d2d800059050bc0f10919b00e6257a(); Correct_O_Letter_564d4161b0f40332ee7b61df24d2dd20(); Correct_O_Letter_16277938b67ac2e9238209c20981986e(); Correct_O_Letter_9309dc21e3c8a445d85df7637a2a6c22(); Correct_O_Letter_07418ea36a2cb00ca956441071c5b24b(); Correct_O_Letter_94beccdf1575131b9a8f1a0082c0d2dd(); Correct_N_Letter_1d3b60477961d1b7ee33801504113a21(); Correct_O_Letter_19be0ae81a8047835168084510bc0d1f(); Correct_N_Letter_9862c4099a00a27a3fb68598c10692e7(); Correct_N_Letter_4977a7e0acc49b1b36f0add919fc5fc1(); Correct_N_Letter_71c98c47efdebc1c712e9e73c69e411b(); Correct_N_Letter_b406777b06e3eb1097a3a3127117d79f(); Correct_N_Letter_627007b595fec31a141a939734c41d7b(); Correct_N_Letter_8d085e78d622bc3a96581f2f4d0c6201(); Correct_N_Letter_0cd33a1e8acee470195219f26a3f74ec(); Correct_N_Letter_c0a893cde624f0f24434f123828dd5dc(); Correct_N_Letter_09c257ae3951d93f6be7a7ef5d7a47cb(); Correct_N_Letter_32dc6c19c435cb106a23871311169c34(); Correct_E_Letter_5b2c0a591bc67409baaa53628e7b63f5(); Correct_O_Letter_9b52c777273861d7d9831ab9ea9cbed7(); Correct_G_Letter_7a3e12ac25ed4b84d1868600a11bb57b(); Correct_N_Letter_85df9503f67aecd3a6deb9f22fde1a53(); Correct_T_Letter_ce52efede81a36a427335f758202a6e4(); Correct_I_Letter_0c3a6bf0c3bfd50a65b1213c1adcb8b7(); Correct_T_Letter_b614df1e6bf315c6d2aef3f924adecf6(); Correct_S_Letter_2d1f83c8c5f101341b8157d9cf2dd98d(); Correct_L_Letter_059b131e1eacccd262194dd9e10169f7(); Correct_I_Letter_08be0359f1607f0b575f3ff2e51ec449(); Correct_S_Letter_7104314667594ca409051a6ffdddff04(); Correct_L_Letter_dfc5df0683e9ce48fcad4b25716c04a1(); Correct_N_Letter_9f49cab012dfefdb0e761b949a405703(); Correct_I_Letter_bac31b3445448283289e5b0013a4f5ef(); Correct_G_Letter_3f3474acf56a670897f47fdf6a4a9319(); Correct_I_Letter_9eea14563b6c685da8b10e50a83d89ac(); Correct_T_Letter_13958efd16c5af3f8be4d5042b35dfa4(); Correct_N_Letter_2709e65b483e4dadca61f4394fc6b9ef(); Correct_G_Letter_e9b58df4cc4d8a3ad8cd359e5bbd9277(); Correct_I_Letter_7c45c5531d9474fe84319e4a6480cd02(); Correct_L_Letter_b81f59d722d0f0594d31fdf9f295ece1(); Correct_G_Letter_06cff09573ee6397228f8b811ca5433a(); Correct_E_Letter_f6ac15905c9ef2246f40e5d443618368(); Correct_S_Letter_7b47a99c356d7dbad3aab05b38e1ae3a(); Correct_G_Letter_049221e734c0a7657cf80d87455f8056(); Correct_I_Letter_b8b0ea8cefcf6d33d8b1fbc3cb6ad104(); Correct_O_Letter_f9b18c0e0a752d99cd71efe5a73a7fac(); Correct_I_Letter_8ab440831cc883d6dc066c695dc3e254(); Correct_L_Letter_5f804e0dc96497ca0816370b44e426c4(); Correct_S_Letter_4f1e7a99f4d46aa7cbfabe6b183312ad(); Correct_S_Letter_913b9c5a527d1c688122adb7ebe62773(); Correct_E_Letter_5fc3abf0f3be912405f599d3280c1423(); Correct_I_Letter_1c34562e7326da22f9d11deea8e70517(); Correct_N_Letter_9b4fb0dd761ae2039e432a933bc1759a(); Correct_I_Letter_3ef7f86405894656cf7fad8ad37acc9a(); Correct_N_Letter_f5b86f5d0852d53e339108cebf7d7a20(); Correct_S_Letter_f593535bb144be004d4befeb5c34bda4(); Correct_E_Letter_c9e9d7cafbdf5d544b03d837b83dbb0b(); Correct_O_Letter_cf68b43946056a38bea806157569545f(); Correct_S_Letter_1f3430753707250f30855adaf1796208(); Correct_S_Letter_26601586cab0a6ab61a916ea83d9d156(); Correct_S_Letter_c9eb907848f6747353618b5ce9d5eed3(); Correct_T_Letter_570e11c47bb10fc996a72a3c0fe467b2(); Correct_E_Letter_3e0049bbc9c3618ecbf28988c9733c26(); Correct_T_Letter_48a736270b91d8cd9de22feba833a02a(); Correct_G_Letter_224785741e5fae1eba680b5adfa13dbe(); Correct_L_Letter_c4386e60cbabc41415b77d6529323a1d(); Correct_S_Letter_5571ba0159ef45f5b86a5eb24539913c(); Correct_S_Letter_45e76f775e356a8af5e26fbfa3f13f9f(); Correct_S_Letter_b482eabb59bd0902e12c2c94ea95866a(); Correct_I_Letter_116270da49fa093db569e2ebeb41c43c(); Correct_E_Letter_fe8452e8f85c10a9c4a41d657edb18d8(); Correct_O_Letter_6a8ce4e313870561d6680551659e9961(); Correct_T_Letter_42685a49cc76b67e3d1d273ff866c50e(); Correct_G_Letter_c320327a80ba1868130c1d8af7ecf7a1(); Correct_L_Letter_f54b7cf56e6dbe9e2164f0e86e157c9a(); Correct_T_Letter_0d76bcdb1b2b5a6d7a8e38114d63dbd4(); Correct_N_Letter_f72b4c48f1253066b35c207106d47044(); Correct_N_Letter_5138743e336dc2f4523c03258937fedd(); Correct_N_Letter_28273f4cffda9400ceae3091af2d63a3(); Correct_N_Letter_f90dab0f3f3981883c82e62b80f77889(); Correct_N_Letter_45487b441bae5e83a31fb2cd670982b8(); Correct_N_Letter_eec1c3462fa5d2c572a5e8e7aa460e8f(); Correct_N_Letter_8589cf46f399fd6af4e61650bbaa32fc(); Correct_N_Letter_f054c38b26d3a50060641abc668effba(); Correct_N_Letter_b2575d9f48d5d10c7a70cb419ca4321f(); Correct_N_Letter_55572a5784319a657f920a141086705b(); Correct_N_Letter_deeb880f76bbe40c9832d8229a8ee183(); Correct_N_Letter_19a91a527aad1266e4ab9957d0e3bd84(); Correct_N_Letter_fc8075562aa0aa37c7bc351c69c08fa7(); Correct_N_Letter_af87affa58071519e8dd3cac40909e4b(); Correct_N_Letter_40fb48e2029fcb58d54951951ae6e5f0(); Correct_N_Letter_585ac3cd8b18da6ac781dfc9d4def784(); Correct_N_Letter_00ccacb4d540a0a6619a5d8ffbdb7e33(); Correct_N_Letter_58ad71e8bbf34726b0fecb8df2636741(); Correct_N_Letter_12747a193340d7a3bc0ee76b1223e1b6(); Correct_N_Letter_5b1ce6eb2af51bc03b5807f458175a63(); Correct_N_Letter_7c524347ad612e63b58648aac20f70fd(); Correct_N_Letter_cf0cab8599ae348bbc8350098fa326d2(); Correct_THIS_Word_077e476b586729db2f5b73f70614e321(); Correct_IS_Word_64893cb64fdeb39987463825890d26cb();} classname( const classname& ); classname& operator=(classname&); public: static classname& getInstance() {static classname instance; return instance;}
 
 #endif //THEMOSTRIDICULOUSSINGLETON_REFS_H
